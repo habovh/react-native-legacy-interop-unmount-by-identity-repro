@@ -1,0 +1,6 @@
+{
+  "name": "legacy-container",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A minimal old-architecture (Paper) view manager used to reproduce a LegacyViewManagerInterop bug."
+}
